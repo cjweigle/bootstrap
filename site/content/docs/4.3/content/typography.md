@@ -284,4 +284,4 @@ Align terms and descriptions horizontally by using our grid system's predefined 
 
 ## Responsive font sizes
 
-In Bootstrap `v5`, we've enabled responsive font sizes by default, allowing text to scale more naturally across device and viewport sizes. Have a look at the [RFS]({{< docsref "/layout/overview#responsive-breakpoints" >}}) page to find out how this works.
+In Bootstrap `v5`, we've enabled responsive font sizes by default, allowing text to scale more naturally across device and viewport sizes. Have a look at the [RFS]({{< docsref "/getting-started/rfs" >}}) page to find out how this works.
